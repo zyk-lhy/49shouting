@@ -87,7 +87,6 @@ docker run \
   auto-sign-machine:latest
 ```
 
-
 、
 ## 联通APP签到任务
 **实现现联通帐号的每日签到任务。**
